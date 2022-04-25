@@ -1,5 +1,5 @@
 <p align=center>
-    <img alt="Cloak Logo" src="app/static/img/logo-with-name-horizontal.png" height="200px">
+    <img alt="Cloak Logo" src="logo-with-name-horizontal.png" height="200px">
     <h3 align=center>Conquer the World's Challenges together</h3>
 </p>
 <p align=center>
